@@ -1,0 +1,62 @@
+body{
+    background-color: darksalmon;
+}
+
+a{
+    color:darkgreen;
+    text-decoration: double;
+}
+
+.header li{
+padding: 0px 25px;
+list-style: none;
+display: inline-block;
+}
+
+p{
+    text-align: left;
+    display: inline-flex;
+    
+    /* padding: 0;
+   margin: 0; */
+}
+
+p span img{
+    width: 75px;
+    padding-top: 1%;
+}
+
+nav{
+    background-color:rgb(203, 198, 196);
+    text-align: center; 
+    /* padding: 05px 10px; */
+    
+}
+
+nav ul{
+    display: inline-flex;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    height: 50px;
+    
+}
+
+image{
+ text-align: center;
+padding: 0;
+margin: 0;
+
+}
+footer li{padding: 0px 25px;
+    list-style: none;
+    display: inline-block;
+}
+
+div{
+    background-color: whitesmoke;
+    
+    text-align: center;
+    padding: 15px 15px ;
+
+}
